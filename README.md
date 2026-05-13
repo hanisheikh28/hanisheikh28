@@ -32,13 +32,11 @@ Passionate and detail-oriented aspiring Java Backend Developer with hands-on exp
 - Postman
 
 
-
 ## 📚 Certifications
 
 - Java Full Stack Developer Specialization – Coursera
-- Java Programming Courses
-
----
+- Generative AI
+- Software Testing – NPTEL
 
 ## 🎯 Currently Focused On
 
@@ -47,8 +45,6 @@ Passionate and detail-oriented aspiring Java Backend Developer with hands-on exp
 - Microservices
 - SQL Optimization
 - Backend Interview Preparation
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hani_sheikh__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ummehani.281201@gmail.com) 
