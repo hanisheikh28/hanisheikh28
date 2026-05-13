@@ -31,20 +31,7 @@ Passionate and detail-oriented aspiring Java Backend Developer with hands-on exp
 - IntelliJ IDEA
 - Postman
 
----
 
-## 📌 Featured Projects
-
-### ♻️ Waste Management System
-Full-stack project for waste tracking, order management, and admin monitoring.
-
-### 🛒 E-commerce Shopping Website
-Online shopping platform with cart, login, filters, and checkout system.
-
-### 🔗 Spring Boot REST API
-Backend API project using Java Spring Boot and MySQL.
-
----
 
 ## 📚 Certifications
 
