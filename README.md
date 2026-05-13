@@ -1,5 +1,67 @@
 # 💫 About Me:
-🧑‍💻 Small Introduction<br>Hi there! I’m Ummehani pursuing MCA from PES College of Engineering, Mandya, passionate about becoming a Java Full Stack Developer. I enjoy learning new technologies and building projects that solve real-world problems.<br><br>🚀 I’m currently working on Improving my Java backend development skills and building mini full-stack projects using HTML, CSS, JavaScript, and Java.<br><br>🤝 I’m looking to collaborate on Open-source projects or college-level tech projects related to Java or web development.<br><br>💬 I’m looking for help with Understanding Spring Boot, database integration, and best practices in full-stack app development.<br><br>🌱 I’m currently learning: Advanced Java, JDBC, and starting with Spring Framework to strengthen my backend knowledge.<br><br>💡 Ask me about: Java basics, web development, or tips for getting started with coding as a beginner.<br><br>⚡ Fun fact: I feel like a magician when a line of code finally works — it’s the best kind of debugging victory! 🪄💻<br>
+# Hi, I'm Umme Hani 👋
+
+### Java Backend Developer | Spring Boot | REST APIs | SQL | Open to Work
+
+Passionate and detail-oriented aspiring Java Backend Developer with hands-on experience building full-stack and backend applications using Java technologies. I enjoy solving real-world problems, designing scalable systems, and continuously learning modern development tools.
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Hibernate
+- JPA
+
+### Database
+- MySQL
+- SQL
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+### ♻️ Waste Management System
+Full-stack project for waste tracking, order management, and admin monitoring.
+
+### 🛒 E-commerce Shopping Website
+Online shopping platform with cart, login, filters, and checkout system.
+
+### 🔗 Spring Boot REST API
+Backend API project using Java Spring Boot and MySQL.
+
+---
+
+## 📚 Certifications
+
+- Java Full Stack Developer Specialization – Coursera
+- Java Programming Courses
+
+---
+
+## 🎯 Currently Focused On
+
+- Data Structures & Algorithms
+- Spring Boot Advanced Concepts
+- Microservices
+- SQL Optimization
+- Backend Interview Preparation
+
 
 
 ## 🌐 Socials:
