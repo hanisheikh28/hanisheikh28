@@ -5,7 +5,6 @@
 
 Passionate and detail-oriented aspiring Java Backend Developer with hands-on experience building full-stack and backend applications using Java technologies. I enjoy solving real-world problems, designing scalable systems, and continuously learning modern development tools.
 
----
 
 ## 🚀 Tech Stack
 
