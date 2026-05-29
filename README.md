@@ -1,44 +1,57 @@
-# Hi, I'm Umme Hani 👋
-**Java Backend Developer | Spring Boot | REST APIs | SQL | Open to Work**
+👁️ Preview
+
+Hi, I'm Umme Hani 👋
+
+Java Backend Developer · Spring Boot · REST APIs · SQL · Open to Work
 
 Passionate and detail-oriented Java Backend Developer with hands-on experience building scalable backend applications using Java technologies. I enjoy solving real-world problems, designing scalable systems, and continuously learning modern development tools.
 
----
+🚀 Tech Stack
 
-## 🚀 Tech Stack
+Backend
 
-**Backend**
-`Java` `Spring Boot` `REST APIs` `Spring Security` `JWT Auth` `Hibernate / JPA` `Maven`
+☕ Java
+🍃 Spring Boot
+🔗 REST APIs
+🛡️ Spring Security
+🔑 JWT Auth
+📦 Hibernate / JPA
+⚙️ Maven
+Database
 
-**Database**
-`MySQL` `SQL` `MongoDB`
+🗄️ MySQL
+📊 SQL
+🍃 MongoDB
+Frontend
 
-**Frontend**
-`React.js` `HTML` `CSS` `JavaScript`
+⚛️ React.js
+🌐 HTML
+🎨 CSS
+✨ JavaScript
+Tools & DevOps
 
-**Tools & DevOps**
-`Git` `GitHub` `Postman` `VS Code` `IntelliJ IDEA` `Eclipse` `Jira`
+🐙 Git
+🐱 GitHub
+📮 Postman
+💻 VS Code
+🧠 IntelliJ IDEA
+🌙 Eclipse
+🎫 Jira
+Cloud & Containers
 
-**Cloud & Containers**
-`Docker` `AWS (basics)`
+🐳 Docker
+☁️ AWS (basics)
+📚 Certifications
 
----
+Java Full Stack Developer Specialization – Coursera
+Generative AI with Large Language Models – Coursera
+Software Testing – NPTEL
+🎯 Currently focused on
 
-## 📚 Certifications
-- Java Full Stack Developer Specialization – Coursera
-- Generative AI with Large Language Models – Coursera
-- Software Testing – NPTEL
+Data Structures & Algorithms
+Spring Boot Advanced
+Microservices
+SQL Optimization
+Backend Interview Prep
 
----
-
-## 🎯 Currently Focused On
-- Data Structures & Algorithms
-- Spring Boot Advanced Concepts
-- Microservices
-- SQL Optimization
-- Backend Interview Preparation
-
----
-
-📫 Reach me at: ummehani.281201@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/ummehanimd
+Copy raw README.md
